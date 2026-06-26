@@ -1,14 +1,14 @@
 ### Hey, Hanz here! 👋
 
-I'm Hanz, a Computer Science student at California State University, Fullerton, and a Development Board Officer for ACM. In my free time, you can find me saltwater pier fishing around Southern California, playing competitive League of Legends, or shooting freelance photography!
+I'm Hanz, a Computer Science student at California State University, Fullerton, and a Development Board Officer for ACM. In my free time, you can find me working on photography, fishing, or watching K-Dramas!
 
 * 🏢 Connect with me on LinkedIn at [linkedin.com/in/hanz-eduardo-de-dios/](https://www.linkedin.com/in/hanz-eduardo-de-dios/)!
 * 📧 Reach out via email at ed.ddios0210@gmail.com
 
 Make sure to check out some of the tools I've created!
 
-* 🤖 [Project Jarvis](link-to-repo) - C/C++ control logic for a 6-axis direct-drive robotic arm
-* ☁️ [PicTalk Microservice API](link-to-repo) - FastAPI payload compression with automated Pytest suites
-* 🛍️ [Ufoodie Digital Storefront](link-to-repo) - Mobile-responsive B2B full-stack MVP
+* 🎢 [Disneyland Transit & Economic Engine]([link-to-repo](https://github.com/hanzeduardodedios1/UCLA-CEE-180-x-Disneyland-Project)) - Dockerized FastAPI proxy server and Flutter Web client
+* ☁️ [PicTalk Microservice API]([link-to-repo](https://github.com/hanzeduardodedios1/pictalk-api-quickstart)) - FastAPI payload compression with automated Pytest suites
+* 🛍️ [Ufoodie Digital Storefront]([link-to-repo](https://github.com/hanzeduardodedios1/UFoodieHotPot)) - Mobile-responsive B2B full-stack MVP
 
 📄 Resumes: [Software Architecture](./software.pdf) | [Embedded Systems](./hardware.pdf) ![Updated](https://img.shields.io/badge/Updated-06--26--26-grey)
