@@ -11,4 +11,4 @@ Make sure to check out some of the tools I've created!
 * ☁️ [PicTalk Microservice API](link-to-repo) - FastAPI payload compression with automated Pytest suites
 * 🛍️ [Ufoodie Digital Storefront](link-to-repo) - Mobile-responsive B2B full-stack MVP
 
-📄 Here's my [resume](link-to-your-hosted-pdf) ![Updated](https://img.shields.io/badge/Updated-06--25--26-grey)
+📄 Resumes: [Software Architecture](./software.pdf) | [Embedded Systems](./hardware.pdf) ![Updated](https://img.shields.io/badge/Updated-06--26--26-grey)
